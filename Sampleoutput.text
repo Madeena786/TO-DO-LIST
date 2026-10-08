@@ -1,0 +1,125 @@
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:1
+Enter a task: Reading A book
+Task added successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:1
+Enter a task: writing a notes
+Task added successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:1
+Enter a task: ckleaning dishes
+Task added successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:1
+Enter a task: washing clothes
+Task added successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:3
+
+Your Tasks:
+1 . Reading A book
+2 . writing a notes
+3 . ckleaning dishes
+4 . washing clothes
+Enter task number to update: 1
+Enter new task: reading a book
+Task updated successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:3
+
+Your Tasks:
+1 . reading a book
+2 . writing a notes
+3 . ckleaning dishes
+4 . washing clothes
+Enter task number to update: 3
+Enter new task: cleaning dishes
+Task updated successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:1
+Enter a task: sleeping
+Task added successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:4
+
+Your Tasks:
+1 . reading a book
+2 . writing a notes
+3 . cleaning dishes
+4 . washing clothes
+5 . sleeping
+Enter task number to remove: 5
+Task removed successfully!
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:2
+
+Your Tasks:
+1 . reading a book
+2 . writing a notes
+3 . cleaning dishes
+4 . washing clothes
+
+***********TO-DO LIST***********
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice:5
+Thank you for using To-Do List!
+
